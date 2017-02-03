@@ -46,7 +46,7 @@ cumbersome for running tiny apps like this.
 
 The clock.py file is what controls the 10-minute interval.
 
-#### About this repop
+#### About this repo
 
 This repo is automatically generated to shield private files, so it won't
 have my real commits. This is not ideal, I know, but I made dozens of
