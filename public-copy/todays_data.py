@@ -42,10 +42,10 @@ def save_json(obj,state, chamber):
                             current_fname(chamber)))
                
     # Save the archive copy
-    write_json(obj,
-               os.path.join(path,
-                           chamber,
-                           archive_fname(chamber)))
+    # write_json(obj,
+    #            os.path.join(path,
+    #                        chamber,
+    #                        archive_fname(chamber)))
 
 def api_get_bill_list(state, chamber):
 
